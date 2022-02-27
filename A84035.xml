@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English villain: or The grand thief. Being a full relation of the desperate life, and deserved death of that most notable thief, and notorious robber, Richard Hanam: who for his arch villanies, and notorious robberies committed both in England, Scotland, France, and Ireland, Denmark, Sweden, yea, Rome it self; far exceeds that arch villain the Spanish Gusman, and the late famous robber of England Captain Iames Hind; yea, and all the notorious thieves that ever yet were heard of: the like to whom hath not been known. With the manner of the execution, and his speech at his last farewell to the world. Licensed and entred according to Order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84035</idno>
+            <idno type="STC">Wing E3123</idno>
+            <idno type="STC">Thomason E1645_3</idno>
+            <idno type="STC">ESTC R209082</idno>
+            <idno type="EEBO-CITATION">99867986</idno>
+            <idno type="PROQUEST">99867986</idno>
+            <idno type="VID">170204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170204)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1645[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English villain: or The grand thief. Being a full relation of the desperate life, and deserved death of that most notable thief, and notorious robber, Richard Hanam: who for his arch villanies, and notorious robberies committed both in England, Scotland, France, and Ireland, Denmark, Sweden, yea, Rome it self; far exceeds that arch villain the Spanish Gusman, and the late famous robber of England Captain Iames Hind; yea, and all the notorious thieves that ever yet were heard of: the like to whom hath not been known. With the manner of the execution, and his speech at his last farewell to the world. Licensed and entred according to Order.</title>
+                  <author>Hannam, Richard, d. 1656.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Andrews, at the white Lion in the Old-Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 18 1656".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hannam, Richard, d. 1656 --  Early works to 1800.</term>
+               <term>Thieves --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170204:1" rendition="simple:additions"/>
+            <p>THE Engliſh Villain: Of the GRAND THIEF.</p>
+            <p>
+               <hi>Being</hi>
+            </p>
+            <p>A full Relation of the deſperate Life, and de<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ved Death of that moſt notable Thief, and notorious Robber, <hi>Richard Hanam:</hi> Who for his arch Villanies, and notorious Rob<g ref="char:EOLhyphen"/>beries committed both in <hi>England, Scotland, France,</hi> and <hi>Ireland, Denmark, Sweden,</hi> yea, <hi>Rome</hi> it ſelf; far exceeds that arch Villain the Spaniſh <hi>Guſman,</hi> and the late famous Robber of <hi>England</hi> Captain <hi>Iames Hind;</hi> yea, and all the notorious Thieves that ever yet were heard of: the like to whom hath not been known.</p>
+            <p>With the manner of the Execution, and his Speech at his laſt farewell to the World.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Andrews,</hi> at the white Lion in the Old-Baily.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170204:2"/>
+            <head>The Engliſh Villain.</head>
+            <p>CAptain <hi>Hanam</hi> the ſubject of this diſcouſe, was by birth an Engliſh<g ref="char:EOLhyphen"/>man, and a moſt proper compleat man for perſon; but for thieving and pic<g ref="char:EOLhyphen"/>king of locks and bolts, and other ſuch like exploits, he was ſo expert, that ſcarce ever the like was heard of. For being ſeveral times apprehended both for murthers and robberies, he always eſcaped by breaking out of priſon; inſomuch that he himſelf boaſted, that he had broken forth almoſt all the priſons in <hi>Holland,</hi> when he had bin ſeveral times committed: the like to whom hath not been heard of before, as ſhall be made appear in this following diſcourſe.</p>
+            <p>
+               <hi>How</hi> Hanam <hi>paſſed beyond ſea; and how he firſt robbed the King of</hi> Denmark, <hi>and af<g ref="char:EOLhyphen"/>ter paſſed into</hi> Sweden.</p>
+            <p>
+               <hi>HAnam</hi> having now for divers yeares exerciſed himſelf in his accurſed and
+<pb n="2" facs="tcp:170204:3"/>wicked Art of Thieving, whereby many were utterly undone by him; and being guilty of very many horrid and bloody murthers by him committed; for to ſecure himſelf from the claws of the Hang-man, he paſſed over into <hi>Denmark,</hi> where among ſeveral other exploits and robbe<g ref="char:EOLhyphen"/>ries by him committed, he having intelli<g ref="char:EOLhyphen"/>gence where the Kings Treaſure lay, by the help of his Picklocks, and other inſtru<g ref="char:EOLhyphen"/>ments, in which wicked, but cunning Art he exelled all others, by which he ſoon got himſelf maſter of a very rich Trea<g ref="char:EOLhyphen"/>ſury of the Kings, out of which having ſufficiently furniſhed himſelf, he depart<g ref="char:EOLhyphen"/>ed thence into <hi>Swedeland.</hi>
+            </p>
+            <p>
+               <hi>How</hi> Hanam <hi>Robbed the Queen of</hi> Swedes, <hi>of all her rich Iewels, with other great ſums of money, to the value of five thou<g ref="char:EOLhyphen"/>ſand pound.</hi>
+            </p>
+            <p>
+               <hi>HAnam</hi> having committed the fore<g ref="char:EOLhyphen"/>ſaid robbery on the King of <hi>Denmark</hi>
+               <pb n="3" facs="tcp:170204:3"/>for fear of being apprehended for the ſame, departs into <hi>Swedeland,</hi> where com<g ref="char:EOLhyphen"/>ming to the Court he made himſelf fami<g ref="char:EOLhyphen"/>liar under the pretence of an Engliſh Gen<g ref="char:EOLhyphen"/>tleman, and being very converſant about the Queen, he ſoon heard out where her Treaſure lay, for that was the thing he aimed at, and he had not been long ac<g ref="char:EOLhyphen"/>quainted thereof, but he attempts the gai<g ref="char:EOLhyphen"/>ning of it, which by the help of his Pick<g ref="char:EOLhyphen"/>locks he ſoon made himſelf maſter of all, and got a rich booty, being all for the moſt part very rich and coſtly Jewels, which, with other great ſums of money, amounted to five thouſand pound: After this, <hi>Hanam</hi> being apprehended confeſt the buſineſs, and was for this bold attempt committed cloſe Priſoner to the common Goal, or main Priſoner, there to remain untill the times of Aſſizes, that ſo hee might receive the reward that was due unto him.</p>
+            <pb n="4" facs="tcp:170204:4"/>
+            <p>
+               <hi>How</hi> Hanam <hi>broke out of priſon, and after got into</hi> France, <hi>and there robbed the King of</hi> France <hi>of ſeveral great ſums of money.</hi>
+            </p>
+            <p>
+               <hi>HAnam</hi> being now a priſoner, and the time of Seſſions, or Goal-<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drawing near in which he knew'h ſhould be brought to Execution for his roguery, and not being willing as yet to be hinged; he made a deſperate attempt, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o broke the priſon, notwithſtanding it was made ſure with ſeveral ſtrong bolts and bars of Iron, which as was conceived, all the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and art of man could not undoe: All which <hi>Hanam</hi> undid by his inſtruments, and ſo eſcaped thence into France. Where Gen<g ref="char:EOLhyphen"/>tleman like he continued a while about the Court, waiting for ſome opportunity: which having gotten, he ſoon made uſe of, and ſo robbed the French King of ſeveral great ſums of money.</p>
+            <p>
+               <hi>How</hi> Hanam <hi>after this, departed out of</hi> France <hi>into the Low-Countreys, and how he committed ſeveral Robberies there: A<g ref="char:EOLhyphen"/>mong
+<pb n="5" facs="tcp:170204:4"/>others, how he robbed the King of</hi> Scots <hi>at the</hi> Hague <hi>in</hi> Holland.</p>
+            <p>
+               <hi>HAnam</hi> having by his ſubtilties got himſelf out of priſon, and after rob<g ref="char:EOLhyphen"/>bed the King of <hi>France,</hi> durſt not (being an Engliſh man) continue any longer within the French Kings dominions; whereupon he departed thence into <hi>Holland,</hi> where in a very ſhort time he committed ſeveral murthers and robberies up and down the Low-Countreys. Afterwards comming to the <hi>Hague,</hi> where the King of Scots then lay, <hi>Hanam</hi> likewiſe robbed him of that ſmall portion of ſtock which he had for his neceſſary reliefe and ſuſtenance. After which, committing ſeveral great robberies upon divers perſons of quality, he was at laſt taken, and committed to pri<g ref="char:EOLhyphen"/>ſon: where he had not long been, but he (as formerly he had done) broke out of priſon, and ſo eſcaped.</p>
+            <p>
+               <hi>How</hi> Hanam <hi>came into</hi> England <hi>again: and how he made an attempt to have robbed his Highneſs Treaſury of the Exchequer.</hi>
+            </p>
+            <pb n="6" facs="tcp:170204:5"/>
+            <p>
+               <hi>HAnam</hi> being now at liberty again; and having as he thought quite ſlipt his neck out of the halter, he began to grow very bold and inſolent, and to glory in his vileneſſe, ſuppoſing himſelf able to get forth of any Priſon whatſoever, be re<g ref="char:EOLhyphen"/>turned again into <hi>England,</hi> and ſo came to <hi>London,</hi> where not contenting himſelf with other robberies, his thoughts were to have robbed his Highneſs Treaſury in the Exchequer; and for that purpoſe, having taken a view thereof, he began this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the beginning of the night; but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being taken of his foreſaid viewing of the place, and ſome other information of his deſign aimed at, Musquetiers were ſet to watch his comming, <hi>Hanam</hi> not miſtruſt<g ref="char:EOLhyphen"/>ing any diſcovery of his deſign, proceed<g ref="char:EOLhyphen"/>ed in the buſineſſe, opening five or ſix double locked doors, through the help of his Picklocks and other inſtruments for that purpoſe, the ſouldiers all this while watching him, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffered him to go on, till at laſt being got to the door of the Cham<g ref="char:EOLhyphen"/>ber where the mony ſay, which being ve<g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:170204:5"/>ſtrong, and alſo barr'd on the inſide with three ſeveral ſtrong Bars of Iron, they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he could not eaſily get open; but notwithſtanding, he ſoon got looſe all thoſe and entred the room, but hearing the Souldiers begin to buſtle up ſtairs af<g ref="char:EOLhyphen"/>ter <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, he could not take his opportunity but got through a private paſſage, and ſo eſcaped.</p>
+            <p>
+               <hi>How</hi> Heynam <hi>was after taken, and ſo brought to</hi> Newgate.</p>
+            <p>
+               <hi>HAnam</hi> being diſappointed of the laſt intended deſign, and by the bleſſing of God hindred by the Souldiers from rob<g ref="char:EOLhyphen"/>bing the Common wealth of five or ſix thouſand pound, which lay ready in bags in the Exchequer Chamber, great ſearch was now made for him in all places ſuſ<g ref="char:EOLhyphen"/>pected; and in a ſmall time after he was by the induſtry of the Souldiers diſcover<g ref="char:EOLhyphen"/>ed and apprehended, and ſo brought be<g ref="char:EOLhyphen"/>fore the Judges at <hi>Weſtminſter,</hi> where being examined, he openly confeſſed that he had committed ſeverall Robberies, and
+<pb n="8" facs="tcp:170204:6"/>gloried, that he could eaſily open any door or lock whatſoever; and pretended, that if the Judges would goe along with him themſelves over the water, he would ſhew them where his inſtruments were made. But the Honourable Judges ſuſ<g ref="char:EOLhyphen"/>pecting ſome wicked Deſigne upon their perſons, committed him to the Gatehouſe, from whence he was ſhortly after remo<g ref="char:EOLhyphen"/>ved to Newgate, there to be kept until the time of Seſſions.</p>
+            <p>
+               <hi>How</hi> Hanam <hi>being priſoner in Newgate, was brought down to the Seſſions-Houſe in the Old Baily, and tried for his life before the Right Honourable the Lord Mayor, Al<g ref="char:EOLhyphen"/>dermen, and Recorder of the City of</hi> Lon<g ref="char:EOLhyphen"/>don: <hi>where after a ſhort examination, his facts being alſo notoriouſly known, he was condemned to ſuffer death at</hi> Tyburn.</p>
+            <p>
+               <hi>HAnam</hi> being now a priſoner in the priſon of Newgate, in ſhort time af<g ref="char:EOLhyphen"/>ter his comming thither, the General Seſ<g ref="char:EOLhyphen"/>ſions and Aſſizes began in the Old-Bayly: Where the Right Honourable the Lord
+<pb n="9" facs="tcp:170204:6"/>Mayor, and the reſt of the Juſtices of the Bench being ſet; <hi>Hanam</hi> was brought be<g ref="char:EOLhyphen"/>fore them; and being examined by the Honourable Bench, was preſently found Guilty, and convicted of ſeveral horrid and deſperate bloudy murthers, and noto<g ref="char:EOLhyphen"/>rious robberies, and was by the Jury found guilty of the ſame. Whereupon the Right Honorable the Recorder then preſent, im<g ref="char:EOLhyphen"/>mediately paſſed ſentence of death againſt him, That he ſhould ſuffer Death at the place of Execution, by being hanged by the neck till he died. After which, he was conveyed back to Newgate again, there to remain till the day of Execution.</p>
+            <p>
+               <hi>How</hi> Hanam <hi>after he was condemned to die, made his eſcape out of Newgate: and how little</hi> Grimes, <hi>the under Clerk, was hanged for conſenting to his eſcape.</hi>
+            </p>
+            <p>
+               <hi>HAnam</hi> being now condemned to die, and the day of Execution drawing nigh, he reſolved to make one deſperate at<g ref="char:EOLhyphen"/>tempt for to make an eſcape; quickly ef<g ref="char:EOLhyphen"/>fected, to the wonder of all that beheld
+<pb n="10" facs="tcp:170204:7"/>the ſame, the like having never been ſeen or done before, and this his deſign be mane on <hi>Grimes</hi> formerly a Priſoner in the ſame place, and one who had been condemned for having two Wives; but was afterward Reprieved for that offence and at that time executed the place of an under Clerk in the ſaid Priſon of <hi>New<g ref="char:EOLhyphen"/>gate;</hi> now this <hi>Grimes</hi> lying in the room with <hi>Hanom,</hi> was made Privy to his eſ<g ref="char:EOLhyphen"/>cape, which he willingly contented to, and ſo ſuffered him by his women cunning to take off his Irons, with which he was fettered; which as the ſaid <hi>Grimes</hi> con<g ref="char:EOLhyphen"/>feſſed before the Honourable Bench, he did uſe to do with eaſe every night, and ſo put them on in the morning: Now <hi>Ha<g ref="char:EOLhyphen"/>nam</hi> having taken off his Iron chains, pre<g ref="char:EOLhyphen"/>ſently breaks open three or four great dores, and breaks in ſunder all the great Chains and Iron Bars, and ſo eſcaped clear away, leaving little <hi>Grimes</hi> to anſwer for his Treachery, who afterwards, contrary to his own expectation, was condemned to die for the ſame, and accordingly ſuffered death at <hi>Tyburn</hi> for the ſaid fact.</p>
+            <pb n="11" facs="tcp:170204:7"/>
+            <p>How <hi>Hanam</hi> was purſued after, and re<g ref="char:EOLhyphen"/>taken again, and how he was brought to <hi>London,</hi> and within ſight of <hi>Newgate,</hi> and yet made his eſcape again.</p>
+            <p>
+               <hi>HAnam</hi> being now at liberty by break<g ref="char:EOLhyphen"/>ing of Priſon, great ſearch and inqui<g ref="char:EOLhyphen"/>ry was made after him and within a while after was taken in the Country and ſo ſent up to <hi>London,</hi> and ſo conveyed towards <hi>Newgate;</hi> but comming within the fight of <hi>Newgate,</hi> he made a deſperate attempt, and got from them, and ſo eſcaped again.</p>
+            <p>How <hi>Hanam</hi> after his ſecond eſcape went to <hi>Rome,</hi> and there committed ſeveral rob<g ref="char:EOLhyphen"/>beries more, eſpecially, he robbed the late Queen of <hi>Sweden</hi> in her Nunnery.</p>
+            <p>
+               <hi>HAnam</hi> being now gotten at liberty once more, to prevent his being ta<g ref="char:EOLhyphen"/>ken
+<pb n="12" facs="tcp:170204:8"/>again, got over again beyond ſea, and ſo ſteered his courſe towards <hi>Rome,</hi> where being arrived, he began to exerciſe his old accuſtomed trade of thieving and robbery again. And having robbed ſeveral rich perſons, he reſolved once more to make an attempt upon the late Queen of <hi>Sweden</hi> a<g ref="char:EOLhyphen"/>gain: Which he effected in the Nunnery where ſhe frequented, and to which ſhe had betaken her ſelfe, and where ſhee had laid up her treaſure; which <hi>Hanam</hi> ha<g ref="char:EOLhyphen"/>ving taken notice of, preſently made him<g ref="char:EOLhyphen"/>ſelf maſter thereof, And having continu<g ref="char:EOLhyphen"/>ed in this trade a while, he returned again towards <hi>England.</hi>
+            </p>
+            <p>How <hi>Hanam</hi> after his return to <hi>England</hi> was taken near <hi>Swithins</hi> Lane, <hi>London,</hi> on the <hi>14,</hi> of Iune, and ſo brought to New<g ref="char:EOLhyphen"/>gate the next morning, and afterwards ex<g ref="char:EOLhyphen"/>ecuted for all his former villanies, on the <hi>17</hi> of Iune, <hi>1656.</hi>
+            </p>
+            <p>
+               <hi>HAnam</hi> having imployed himſelfe a while in his arch-trade of thieving at <hi>Rome,</hi> he returned again towards <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="13" facs="tcp:170204:8"/>and ſo came to <hi>London;</hi> where be<g ref="char:EOLhyphen"/>ing in company near Swithins Lane, Lon<g ref="char:EOLhyphen"/>don, a drinking, he endeavoured to make himſelf maſter of a ſum of money, which hee had ſome notice of, that was in the houſe, which they thought to have poſſeſt themſelves of while they ſtaid there drin<g ref="char:EOLhyphen"/>king: But notice being given thereof, en<g ref="char:EOLhyphen"/>deavors were uſed for to apprehend them. And the thieves (of which <hi>Hanam</hi> was one) being ſhut up into a room, got away over the houſes: but returning again, he was taken, having deſperately wounded two or three men firſt, and ſo kept in ſafe cuſtody till the morning. Which being come, it being the Lords Day, he was very ſtrongly guarded to Newgate; and the Keepers to prevent his further eſcape, bound him hands and feet with ſtrong chains and fetters of Iron, where multi<g ref="char:EOLhyphen"/>tudes daily flocked to ſee him, expecting his Execution: which to give the Gal<g ref="char:EOLhyphen"/>lowes and Hang-man their due, was per<g ref="char:EOLhyphen"/>formed in Smithfield the 17. day of this preſent moneth; where as he lived wick<g ref="char:EOLhyphen"/>edly, he alſo died wilfully and deſperate<g ref="char:EOLhyphen"/>ly,
+<pb n="14" facs="tcp:170204:9"/>and ſo bid farewel to the World.</p>
+            <p>Thus have you heard a brief, but true account of the rude life, and notable Vil<g ref="char:EOLhyphen"/>lanies committed by this wretched and un<g ref="char:EOLhyphen"/>paralell'd Villain, with his deſperate but deſerved ſhamefull Death; the like to whom hath not been, nor I hope never will be again.</p>
+            <l>Thus <hi>Hanam</hi>'s dead and gone,</l>
+            <l>and bids the world adieu:</l>
+            <l>And for his Thefts and Villanies,</l>
+            <l>at the Gallows had his due.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
